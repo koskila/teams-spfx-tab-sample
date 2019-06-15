@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "teams-spfx-tab-sample-client-side-solution",
+    "id": "22d41abd-5dd0-4f16-a1f9-4eaf80518ce9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/teams-spfx-tab-sample.sppkg"
+  }
+}
